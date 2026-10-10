@@ -8149,7 +8149,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "019ea0e3-aa1b-41c6-b48a-873a30f74c26")
-		(property "Reference" "C26"
+		(property "Reference" "C2"
 			(at 39.37 79.756 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8257,7 +8257,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C26")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -8274,7 +8274,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0295a1f2-cbb8-4d63-97be-172522537c04")
-		(property "Reference" "R3"
+		(property "Reference" "R1"
 			(at 38.608 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8382,7 +8382,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R3")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -8399,7 +8399,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "04d62f87-ac76-4346-b71e-5b7facb4b152")
-		(property "Reference" "C30"
+		(property "Reference" "C7"
 			(at 75.692 95.504 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8505,7 +8505,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C30")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -8523,7 +8523,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "08aec9c8-5e47-464c-82c3-33bebf53de99")
-		(property "Reference" "R20"
+		(property "Reference" "R8"
 			(at 70.104 119.38 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8629,7 +8629,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R20")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -8771,7 +8771,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0bb12bb8-e273-4750-88a2-b7a4fe338a8a")
-		(property "Reference" "C12"
+		(property "Reference" "C13"
 			(at 109.22 25.146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8879,7 +8879,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C12")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -8896,7 +8896,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0c321eed-3668-415a-9da1-a0a2b3f6071f")
-		(property "Reference" "C19"
+		(property "Reference" "C25"
 			(at 220.726 70.866 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9004,7 +9004,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C19")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -9021,7 +9021,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0d6f81eb-b36a-49bc-b21b-9227d0598e9c")
-		(property "Reference" "C10"
+		(property "Reference" "C30"
 			(at 256.286 24.892 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9129,7 +9129,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C10")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -9146,7 +9146,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0f32e977-427e-4fd8-892e-2f76b7cd1ae9")
-		(property "Reference" "R19"
+		(property "Reference" "R6"
 			(at 45.72 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9254,7 +9254,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R19")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -9271,7 +9271,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "16b88cec-73e1-4a23-bf23-e38dd597af2c")
-		(property "Reference" "U2"
+		(property "Reference" "U4"
 			(at 195.326 72.644 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9436,7 +9436,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "U2")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -9453,7 +9453,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1bf97544-de1a-49d2-a4cd-337ac2a2c1d8")
-		(property "Reference" "TP13"
+		(property "Reference" "TP10"
 			(at 105.918 72.136 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9515,7 +9515,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP13")
+					(reference "TP10")
 					(unit 1)
 				)
 			)
@@ -9532,7 +9532,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e66af51-3dbf-41a6-8702-660e2dea994b")
-		(property "Reference" "TP15"
+		(property "Reference" "TP8"
 			(at 73.66 102.87 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9594,7 +9594,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP15")
+					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -9611,7 +9611,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1f657018-04e4-4a55-a110-dc8eff0b86ae")
-		(property "Reference" "D3"
+		(property "Reference" "D2"
 			(at 29.21 88.8999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9720,7 +9720,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "D3")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -9738,7 +9738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "212a09ee-0999-421b-b4dc-c0e04de17caf")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR05"
 			(at 31.75 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -9799,7 +9799,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR04")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -9816,7 +9816,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "23cb5b3a-5eeb-44e7-90b6-f6829f9e71e5")
-		(property "Reference" "C31"
+		(property "Reference" "C10"
 			(at 100.838 94.234 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9924,7 +9924,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C31")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -9942,7 +9942,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "265807f1-c663-446d-9a9e-a86155499e39")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR043"
 			(at 204.47 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -10003,7 +10003,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR024")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -10021,7 +10021,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "28bd145b-ae90-4420-9b10-f6f71038d099")
-		(property "Reference" "D6"
+		(property "Reference" "D3"
 			(at 54.864 112.776 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10138,7 +10138,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "D6")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -10156,7 +10156,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "29a528b1-94c1-4d1e-a679-0ffe281ac092")
-		(property "Reference" "R23"
+		(property "Reference" "R11"
 			(at 81.788 81.026 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10262,7 +10262,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R23")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -10280,7 +10280,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d40e5b4-6463-4f76-a4f7-774b3f4d2b87")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR033"
 			(at 118.11 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -10341,7 +10341,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR050")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -10359,7 +10359,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e1ed130-ee74-4c60-a20e-df83113f9fea")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR028"
 			(at 91.44 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -10420,7 +10420,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR046")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -10438,7 +10438,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e477e99-abe7-4c12-98ab-9de51cf4607d")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR09"
 			(at 38.1 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10499,7 +10499,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR041")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -10516,7 +10516,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3076033d-0637-4f91-988a-8ef947e63128")
-		(property "Reference" "U4"
+		(property "Reference" "U1"
 			(at 31.496 189.992 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10626,7 +10626,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "U4")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -10643,7 +10643,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "30beb28c-f6d1-4111-a4d2-268bbd51ddf6")
-		(property "Reference" "TP10"
+		(property "Reference" "TP14"
 			(at 230.632 38.354 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10705,7 +10705,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP10")
+					(reference "TP14")
 					(unit 1)
 				)
 			)
@@ -10722,7 +10722,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "32bccf91-11e0-4304-8b6f-a54e0871f6e0")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR034"
 			(at 134.62 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -10782,7 +10782,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR03")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -10799,7 +10799,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3419699f-ff92-4ebd-b58a-1d6b79c4c8a2")
-		(property "Reference" "TP14"
+		(property "Reference" "TP1"
 			(at 43.942 62.484 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10861,7 +10861,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP14")
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -10878,7 +10878,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "354030c1-cad5-457c-82be-405ef8928cac")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR050"
 			(at 279.4 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -10938,7 +10938,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR030")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -10956,7 +10956,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35e0e216-b377-4792-9f47-c6d0baf36a1b")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR022"
 			(at 78.74 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -11017,7 +11017,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR043")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -11034,7 +11034,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a284ef0-7e17-4d85-b519-7209b8cf99a7")
-		(property "Reference" "R21"
+		(property "Reference" "R9"
 			(at 72.898 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11142,7 +11142,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R21")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -11160,7 +11160,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a310bf2-4b77-4b41-bdc8-dc07b89bae6a")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 76.2 57.1499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11268,7 +11268,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -11286,7 +11286,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f32dbca-2129-4c09-926e-825296f69332")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR038"
 			(at 168.91 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -11347,7 +11347,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR020")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -11365,7 +11365,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43006ce5-6165-49a8-8877-1dd33f9094dd")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR024"
 			(at 82.55 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -11426,7 +11426,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR044")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -11444,7 +11444,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47fa39dc-b335-4581-ad38-9a876742b48a")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR031"
 			(at 102.87 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -11505,7 +11505,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR013")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -11522,7 +11522,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "488e5700-8097-4946-84ce-772e03fb1985")
-		(property "Reference" "TP8"
+		(property "Reference" "TP12"
 			(at 166.116 25.908 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11584,7 +11584,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP8")
+					(reference "TP12")
 					(unit 1)
 				)
 			)
@@ -11602,7 +11602,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49a4c7ff-ed56-4d4a-84c4-f02346fe3398")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR035"
 			(at 146.05 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -11663,7 +11663,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR022")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -11680,7 +11680,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4dd93b73-fb93-480d-8839-556c033cca3f")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR02"
 			(at 22.86 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -11740,7 +11740,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR034")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -11758,7 +11758,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f3797fc-b41a-4bfa-bbbe-ba62cab7684c")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR012"
 			(at 48.26 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -11819,7 +11819,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR033")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -11837,7 +11837,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f635912-2124-4d83-86bc-89cdaa13cbd6")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR023"
 			(at 81.28 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -11898,7 +11898,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR015")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -11916,7 +11916,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4fd3fe20-8da2-4511-b2a5-f980e6d1ee2c")
-		(property "Reference" "R8"
+		(property "Reference" "R18"
 			(at 164.084 53.086 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12022,7 +12022,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R8")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -12165,7 +12165,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "50c1c4bd-6308-4e24-a443-0ad60d418515")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR019"
 			(at 74.93 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -12225,7 +12225,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR040")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -12243,7 +12243,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5231c948-d655-4fc2-8846-c614f21a038d")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR048"
 			(at 232.41 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -12304,7 +12304,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR029")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -12321,7 +12321,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5287da7e-4203-4c4d-8fb5-b7b6f549e420")
-		(property "Reference" "R17"
+		(property "Reference" "R4"
 			(at 45.72 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12429,7 +12429,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R17")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -12446,7 +12446,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "52efec8a-e86f-4496-9880-5730d1f3bbb4")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR04"
 			(at 29.21 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -12506,7 +12506,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR032")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -12524,7 +12524,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54f53d99-0848-43dc-ab89-cbe95b7c9cc2")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR025"
 			(at 87.63 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -12585,7 +12585,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR045")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -12603,7 +12603,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56502b6f-1ebf-4f88-b99f-0bfee8798615")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR042"
 			(at 193.04 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -12664,7 +12664,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR014")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -12682,7 +12682,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a52a52b-d47f-41ab-8924-7c42dc7b1d89")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR047"
 			(at 226.06 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -12743,7 +12743,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR028")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -12761,7 +12761,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ad63099-8898-4f31-af27-5f2940044c48")
-		(property "Reference" "R6"
+		(property "Reference" "R10"
 			(at 83.82 55.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12869,7 +12869,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R6")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -12886,7 +12886,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5b0d1051-a1d5-41e3-acf3-4c262116cf8d")
-		(property "Reference" "TP3"
+		(property "Reference" "TP7"
 			(at 73.406 90.678 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12948,7 +12948,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP3")
+					(reference "TP7")
 					(unit 1)
 				)
 			)
@@ -13090,7 +13090,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5ee85d61-03df-434e-91cd-a8e98d3f9ca7")
-		(property "Reference" "Q6"
+		(property "Reference" "Q4"
 			(at 204.47 32.512 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13210,7 +13210,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "Q6")
+					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -13306,7 +13306,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "62a4d999-0834-45bd-8c4b-75665c5143ad")
-		(property "Reference" "R4"
+		(property "Reference" "R3"
 			(at 50.038 56.134 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13414,7 +13414,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R4")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -13432,7 +13432,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "633d75fc-150e-41b0-a0e3-58c7705abf34")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR049"
 			(at 237.49 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -13493,7 +13493,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR031")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -13510,7 +13510,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "63c94ece-7e79-44d2-ac4b-4dfc4e6fe050")
-		(property "Reference" "R1"
+		(property "Reference" "R13"
 			(at 78.232 37.846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13618,7 +13618,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R1")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -13898,7 +13898,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "69887af8-41b8-47fa-b35b-00b683f50a32")
-		(property "Reference" "C32"
+		(property "Reference" "C11"
 			(at 100.33 73.406 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14006,7 +14006,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C32")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -14024,7 +14024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ac6d665-2a92-4f3f-b26e-15dc8a84e582")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR06"
 			(at 31.75 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -14085,7 +14085,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR042")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -14103,7 +14103,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6cf0546b-4a88-45f4-8d8f-20ca12efddf8")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR018"
 			(at 74.93 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -14164,7 +14164,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR012")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -14181,7 +14181,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6dee1bac-bcc5-4e7d-9f9f-f954b73fc805")
-		(property "Reference" "R15"
+		(property "Reference" "R21"
 			(at 209.042 54.102 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14287,7 +14287,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R15")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -14305,7 +14305,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "736cc4d9-f8d0-4166-95b9-9455b3854c4e")
-		(property "Reference" "R7"
+		(property "Reference" "R15"
 			(at 156.21 54.102 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14411,7 +14411,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R7")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -14429,7 +14429,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "774e1451-cab2-45a2-88e0-5d926231f0fe")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR030"
 			(at 97.79 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -14490,7 +14490,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR048")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -14508,7 +14508,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "782307f9-6909-4bb6-8b44-ed46dae1a977")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR040"
 			(at 173.99 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -14569,7 +14569,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR021")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -14587,7 +14587,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79ac5425-f1f6-4475-b7d9-43e98e43eaec")
-		(property "Reference" "U1"
+		(property "Reference" "U3"
 			(at 63.1033 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14727,7 +14727,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "U1")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -14745,7 +14745,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79f42308-adbd-45cf-afa4-eb61cb1c2779")
-		(property "Reference" "C29"
+		(property "Reference" "C8"
 			(at 91.44 102.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14853,7 +14853,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C29")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -14870,7 +14870,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f6b8de3-a9e7-4ec7-82d7-79496c92a700")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR041"
 			(at 181.61 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -14930,7 +14930,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR025")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -14948,7 +14948,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f7b5610-f162-4873-8d00-7764be522e80")
-		(property "Reference" "C2"
+		(property "Reference" "C5"
 			(at 59.182 30.734 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15076,7 +15076,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C2")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -15218,7 +15218,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "856c5747-e0c6-472d-b5c3-e78d0225c36b")
-		(property "Reference" "R16"
+		(property "Reference" "R17"
 			(at 155.956 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15348,7 +15348,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R16")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -15366,7 +15366,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "856fd71c-61e6-4ef2-99fd-eb260ec2c0fd")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR020"
 			(at 76.2 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -15427,7 +15427,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR06")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -15445,7 +15445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88d6412b-3889-41d0-9cec-509377cb8a8a")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR013"
 			(at 48.26 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -15506,7 +15506,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR037")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -15524,7 +15524,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8a544ada-e7f5-418e-a852-6d7d88b0c70d")
-		(property "Reference" "Q7"
+		(property "Reference" "Q3"
 			(at 87.63 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15642,7 +15642,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "Q7")
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -15660,7 +15660,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "906b4f54-5077-4ed3-8e66-cc207b6bf4ad")
-		(property "Reference" "D2"
+		(property "Reference" "D1"
 			(at 33.782 31.75 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15769,7 +15769,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "D2")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -15787,7 +15787,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "90993aeb-1b3e-4d26-8993-3de9f3d43ba6")
-		(property "Reference" "C5"
+		(property "Reference" "C20"
 			(at 177.546 30.734 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15893,7 +15893,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C5")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -15910,7 +15910,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "91bc31e1-6671-4859-b017-5bc5529bae56")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR014"
 			(at 50.8 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -15970,7 +15970,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR038")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -15988,7 +15988,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92001c80-bae4-4ff0-82f7-b8706501c673")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR017"
 			(at 60.96 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -16049,7 +16049,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR05")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -16067,7 +16067,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "969828d6-c627-4ac8-bcc5-601b682ac43f")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR026"
 			(at 91.44 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -16128,7 +16128,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR07")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -16145,7 +16145,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9cc14dd1-49e7-41ae-8d4c-f681945f6b41")
-		(property "Reference" "C20"
+		(property "Reference" "C31"
 			(at 262.128 24.892 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16253,7 +16253,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C20")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -16270,7 +16270,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9d00f2a8-7157-4841-976e-15b622ffe5aa")
-		(property "Reference" "TP2"
+		(property "Reference" "TP4"
 			(at 43.688 175.768 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16332,7 +16332,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP2")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -16349,7 +16349,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9d482f09-9565-49e8-8216-83b56577e932")
-		(property "Reference" "R11"
+		(property "Reference" "R20"
 			(at 179.324 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16457,7 +16457,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R11")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -16474,7 +16474,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a0eb7861-674d-44d1-9601-9d56aee7e75a")
-		(property "Reference" "C22"
+		(property "Reference" "C26"
 			(at 238.76 25.146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16582,7 +16582,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C22")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -16599,7 +16599,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a2a081ae-60bf-4e80-9962-cbb48a08f71e")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR044"
 			(at 210.82 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -16659,7 +16659,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR026")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -16676,7 +16676,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a2f47e90-b57a-451f-be6d-d31a25bb3e9c")
-		(property "Reference" "C4"
+		(property "Reference" "C19"
 			(at 174.498 54.61 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16782,7 +16782,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C4")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -16800,7 +16800,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a38af9aa-7477-446f-9dc6-98c343af9c23")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR07"
 			(at 34.29 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -16860,7 +16860,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR01")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -16878,7 +16878,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a39dca3e-12df-44c0-8248-2cda23727b50")
-		(property "Reference" "#FLG04"
+		(property "Reference" "#FLG05"
 			(at 233.68 27.305 0)
 			(hide yes)
 			(show_name no)
@@ -16940,7 +16940,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#FLG04")
+					(reference "#FLG05")
 					(unit 1)
 				)
 			)
@@ -16957,7 +16957,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a45e5038-cec4-4c39-aff3-e9bf096df049")
-		(property "Reference" "R5"
+		(property "Reference" "R14"
 			(at 86.36 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17063,7 +17063,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R5")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -17080,7 +17080,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a4cc202d-2653-4163-b145-faeb66315403")
-		(property "Reference" "C11"
+		(property "Reference" "C12"
 			(at 104.14 25.146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17188,7 +17188,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C11")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -17206,7 +17206,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a59a68cb-3c64-46e6-9c71-2811937075b4")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR046"
 			(at 217.17 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -17267,7 +17267,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR027")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -17284,7 +17284,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b192fe7f-7f5f-4117-a586-92d0f6fcecd4")
-		(property "Reference" "TP12"
+		(property "Reference" "TP6"
 			(at 73.406 72.136 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17346,7 +17346,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP12")
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -17363,7 +17363,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b3235d9d-1e13-44d2-a91f-7fa314c8d6e3")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR027"
 			(at 91.44 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -17423,7 +17423,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR08")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -17440,7 +17440,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b3a9dae4-8061-4e82-b455-260826e14564")
-		(property "Reference" "C7"
+		(property "Reference" "C24"
 			(at 212.598 70.866 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17548,7 +17548,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C7")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -17566,7 +17566,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b47bbf98-5a03-4635-b8ab-23df7a44514f")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR036"
 			(at 161.29 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -17627,7 +17627,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR017")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -17644,7 +17644,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b623785b-dfd8-4406-a3db-56e68b8cf858")
-		(property "Reference" "C23"
+		(property "Reference" "C27"
 			(at 243.84 25.146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17752,7 +17752,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C23")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -17769,7 +17769,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b749cae8-41bc-4beb-ad8e-5c6a9b2f5d88")
-		(property "Reference" "R10"
+		(property "Reference" "R7"
 			(at 69.85 17.272 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17875,7 +17875,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R10")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -17893,7 +17893,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9586ef9-5c2b-47f0-9f36-9f683473c0f0")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR010"
 			(at 39.37 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -17954,7 +17954,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR011")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -17972,7 +17972,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bb0cf603-ba2b-43ac-a58a-351ff6c79217")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR01"
 			(at 21.59 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -18033,7 +18033,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR02")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -18050,7 +18050,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bb9015d4-506c-4efc-946e-adbf030d7115")
-		(property "Reference" "TP5"
+		(property "Reference" "TP9"
 			(at 93.472 23.622 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18112,7 +18112,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP5")
+					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -18130,7 +18130,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be20da8f-2c8a-4fff-9812-65b8cb9ed58f")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR039"
 			(at 173.99 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -18191,7 +18191,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR023")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -18209,7 +18209,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bef8714e-9bfd-4bd0-93fc-a3eae53936e9")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR037"
 			(at 167.64 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -18270,7 +18270,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR019")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -18288,7 +18288,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c23c139b-469a-40ff-9ec8-2d2efadf09e7")
-		(property "Reference" "D5"
+		(property "Reference" "D4"
 			(at 57.15 16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18405,7 +18405,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "D5")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -18547,7 +18547,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4d2f573-3d2b-4827-9081-30f18bb7603a")
-		(property "Reference" "C28"
+		(property "Reference" "C4"
 			(at 52.07 185.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18655,7 +18655,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C28")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -18672,7 +18672,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c626a09b-ebca-4827-bf50-7337f6458824")
-		(property "Reference" "Q3"
+		(property "Reference" "Q2"
 			(at 83.82 22.86 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18790,7 +18790,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "Q3")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -18807,7 +18807,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c6efd063-ed95-43a1-b3ee-7b105806d3a0")
-		(property "Reference" "C21"
+		(property "Reference" "C32"
 			(at 267.97 24.892 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18915,7 +18915,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C21")
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -18932,7 +18932,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c8dc0b95-6636-4b21-a2ce-6794279f06ab")
-		(property "Reference" "R22"
+		(property "Reference" "R12"
 			(at 89.916 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19040,7 +19040,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R22")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -19058,7 +19058,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9f8ec72-a817-42af-95fc-50cbb202e404")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR08"
 			(at 36.83 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -19119,7 +19119,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR036")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -19136,7 +19136,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "caa9bdf8-9d1f-4a11-94b0-9eaf9974e632")
-		(property "Reference" "C1"
+		(property "Reference" "C9"
 			(at 94.742 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19244,7 +19244,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C1")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -19262,7 +19262,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cb4cd494-d2e5-4337-bf89-3491b7b5e634")
-		(property "Reference" "C3"
+		(property "Reference" "C6"
 			(at 74.168 30.988 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19392,7 +19392,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C3")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -19409,7 +19409,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ccca2a32-4ed0-40fe-8a00-16b38ff69e98")
-		(property "Reference" "C25"
+		(property "Reference" "C29"
 			(at 254 25.146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19517,7 +19517,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C25")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -19659,7 +19659,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cd55c545-54f6-421d-95dc-afebdbb68fb3")
-		(property "Reference" "R18"
+		(property "Reference" "R5"
 			(at 45.72 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19767,7 +19767,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R18")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -19784,7 +19784,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cec1e60a-5818-4772-bf4d-6f928114136e")
-		(property "Reference" "C13"
+		(property "Reference" "C3"
 			(at 40.64 25.146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19892,7 +19892,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C13")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -19910,7 +19910,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf21458d-53fc-449e-ad71-ae14a02f6a0a")
-		(property "Reference" "U3"
+		(property "Reference" "U2"
 			(at 61.595 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20088,7 +20088,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "U3")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -20106,7 +20106,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cfc5a10b-8a17-447b-adcb-60d094f1b84e")
-		(property "Reference" "#FLG05"
+		(property "Reference" "#FLG04"
 			(at 189.23 33.655 0)
 			(hide yes)
 			(show_name no)
@@ -20168,7 +20168,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#FLG05")
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
@@ -20186,7 +20186,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0576183-c24f-4cd5-845a-6c05a3fae2d4")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR03"
 			(at 25.4 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -20247,7 +20247,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR035")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -20264,7 +20264,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d2bba159-22aa-481c-842b-c3d4f811bc3d")
-		(property "Reference" "TP7"
+		(property "Reference" "TP11"
 			(at 141.986 23.876 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20326,7 +20326,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP7")
+					(reference "TP11")
 					(unit 1)
 				)
 			)
@@ -20344,7 +20344,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dab5263c-7729-49d9-94bd-20863bdf56a1")
-		(property "Reference" "R13"
+		(property "Reference" "R22"
 			(at 234.95 52.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20452,7 +20452,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R13")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -20470,7 +20470,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dd0d1829-cc16-4eef-8729-66c6fdef47c9")
-		(property "Reference" "C6"
+		(property "Reference" "C21"
 			(at 194.056 30.734 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20576,7 +20576,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C6")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -20593,7 +20593,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "def2c314-d673-424f-8f14-bbcedfbfaa44")
-		(property "Reference" "R9"
+		(property "Reference" "R19"
 			(at 167.386 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20701,7 +20701,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R9")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -20843,7 +20843,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e097af5f-f8cf-4c09-a943-d4e658c703d7")
-		(property "Reference" "TP4"
+		(property "Reference" "TP5"
 			(at 63.246 26.924 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20905,7 +20905,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP4")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -20922,7 +20922,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e4191845-739a-44e2-aee0-f47447abeff9")
-		(property "Reference" "C8"
+		(property "Reference" "C22"
 			(at 211.328 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21028,7 +21028,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C8")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -21046,7 +21046,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5025f0b-5f65-405d-92da-853bdfc2aa67")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR045"
 			(at 213.36 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -21107,7 +21107,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR018")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -21124,7 +21124,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e52354b7-31f1-4132-a2a6-3aefe6c5aec9")
-		(property "Reference" "C24"
+		(property "Reference" "C28"
 			(at 248.92 25.146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21232,7 +21232,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C24")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -21250,7 +21250,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e530b92e-9ac3-41f4-87c5-9210540af99d")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR029"
 			(at 93.98 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -21311,7 +21311,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR047")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -21329,7 +21329,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5f3f531-ccb8-4c0d-9ddf-99fa734a0c8f")
-		(property "Reference" "D4"
+		(property "Reference" "D5"
 			(at 106.68 80.9624 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21437,7 +21437,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "D4")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -21454,7 +21454,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e5fe2cd2-25db-4ad9-8902-d5b67de53232")
-		(property "Reference" "TP6"
+		(property "Reference" "TP2"
 			(at 44.45 36.83 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21516,7 +21516,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP6")
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -21693,7 +21693,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed08dd5d-3f83-44a2-8e0d-4b385dd8e337")
-		(property "Reference" "TP9"
+		(property "Reference" "TP13"
 			(at 185.166 25.908 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21755,7 +21755,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP9")
+					(reference "TP13")
 					(unit 1)
 				)
 			)
@@ -21773,7 +21773,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed7ae822-6408-4cc9-8ae4-d34c3c7c49a4")
-		(property "Reference" "Q4"
+		(property "Reference" "Q1"
 			(at 48.514 22.86 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21891,7 +21891,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "Q4")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -21909,7 +21909,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee8eb786-331b-4689-b48a-4c0c756758a7")
-		(property "Reference" "R12"
+		(property "Reference" "R16"
 			(at 161.29 22.86 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22015,7 +22015,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R12")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -22032,7 +22032,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f3ffb787-dc1f-4c7e-abf9-37b814167157")
-		(property "Reference" "C9"
+		(property "Reference" "C23"
 			(at 219.202 54.864 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22138,7 +22138,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C9")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -22234,7 +22234,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f7732500-fe7e-41b9-a818-b0d01e753689")
-		(property "Reference" "TP11"
+		(property "Reference" "TP3"
 			(at 42.418 78.486 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22296,7 +22296,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP11")
+					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -22314,7 +22314,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7f049fb-26a0-4aa1-bca1-b60d8f1ec83a")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR032"
 			(at 104.14 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -22375,7 +22375,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR049")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -22393,7 +22393,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f82826d7-1458-4272-a04d-b700cf303358")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR015"
 			(at 54.61 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -22454,7 +22454,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR039")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -22472,7 +22472,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f8305b08-cede-43bc-abeb-6fab844e12d4")
-		(property "Reference" "C27"
+		(property "Reference" "C1"
 			(at 21.59 185.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22580,7 +22580,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "C27")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -22597,7 +22597,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f9d2ec4e-b349-4273-b6ff-369e21b3b8b0")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 16.002 26.162 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22705,7 +22705,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -22723,7 +22723,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9f0e7b3-7382-48f6-9e39-cc4d3bacae3c")
-		(property "Reference" "R14"
+		(property "Reference" "R23"
 			(at 234.95 62.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22831,7 +22831,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "R14")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -22849,7 +22849,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb8e433c-60d2-4a4f-adae-76b5dd9f0efd")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR021"
 			(at 77.47 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -22910,7 +22910,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR09")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -22928,7 +22928,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fc0d7dda-4167-4f74-983e-08488f934a7a")
-		(property "Reference" "D1"
+		(property "Reference" "D6"
 			(at 186.436 32.766 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23057,7 +23057,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "D1")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -23075,7 +23075,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fcacd55c-3690-477c-9dc0-b43c53affa1f")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR011"
 			(at 48.26 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -23136,7 +23136,7 @@
 		(instances
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "#PWR010")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
