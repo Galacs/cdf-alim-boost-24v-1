@@ -4787,6 +4787,12 @@
 		(uuid "29e776e7-1f43-4189-9005-45e59f4e8327")
 	)
 	(junction
+		(at 156.21 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2b3ae123-4741-4d3d-8023-d17ac6437850")
+	)
+	(junction
 		(at 113.03 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5243,6 +5249,12 @@
 		(uuid "f37d336a-c8aa-4b8e-abb5-b9da9196e2bf")
 	)
 	(junction
+		(at 166.37 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f4031056-aa4a-48dd-a806-1ba0198dd7e4")
+	)
+	(junction
 		(at 31.75 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5562,6 +5574,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 44.45) (xy 156.21 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b1b6769-fdbf-46a8-876c-4682469618e1")
+	)
+	(wire
+		(pts
 			(xy 39.37 29.21) (xy 39.37 30.48)
 		)
 		(stroke
@@ -5589,6 +5611,16 @@
 			(type default)
 		)
 		(uuid "1d7c999e-1f92-4882-9a75-0b2a50477469")
+	)
+	(wire
+		(pts
+			(xy 156.21 44.45) (xy 157.48 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e2df589-a0d1-450a-a61c-ed22d267e409")
 	)
 	(wire
 		(pts
@@ -5669,6 +5701,16 @@
 			(type default)
 		)
 		(uuid "24a21e8e-612c-4a49-98f8-68483041965e")
+	)
+	(wire
+		(pts
+			(xy 166.37 44.45) (xy 166.37 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24b9a1af-ba31-4ab9-92d2-ef3da785934b")
 	)
 	(wire
 		(pts
@@ -6372,6 +6414,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 40.64) (xy 166.37 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d9f3a10-6973-49ce-94d7-64dfd2164111")
+	)
+	(wire
+		(pts
 			(xy 167.64 54.61) (xy 167.64 53.34)
 		)
 		(stroke
@@ -6859,6 +6911,16 @@
 			(type default)
 		)
 		(uuid "86e742ef-02b3-408d-a20c-0de5b8a7c210")
+	)
+	(wire
+		(pts
+			(xy 156.21 40.64) (xy 156.21 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87224944-8b0f-4566-bdd3-f59ada1439f9")
 	)
 	(wire
 		(pts
@@ -7372,7 +7434,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 29.21) (xy 156.21 48.26)
+			(xy 156.21 29.21) (xy 156.21 33.02)
 		)
 		(stroke
 			(width 0)
@@ -7422,7 +7484,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 29.21) (xy 166.37 45.72)
+			(xy 166.37 29.21) (xy 166.37 33.02)
 		)
 		(stroke
 			(width 0)
@@ -8119,6 +8181,16 @@
 			(type default)
 		)
 		(uuid "fc0dcf05-65d4-4b38-99be-b23d66dee8c8")
+	)
+	(wire
+		(pts
+			(xy 165.1 44.45) (xy 166.37 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc9740db-5f26-4e41-b37c-7a37d3adac81")
 	)
 	(wire
 		(pts
@@ -11271,6 +11343,132 @@
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 156.21 36.83 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3d8faa2f-b307-472d-907e-15a6dc8b8f60")
+		(property "Reference" "R24"
+			(at 157.734 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100"
+			(at 157.734 38.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 157.988 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 156.21 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "Y"
+			(at 156.21 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25076"
+			(at 156.21 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 156.21 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF1000TCE"
+			(at 156.21 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "bd392894-1730-4bc5-8170-6a11c4032f53")
+		)
+		(pin "1"
+			(uuid "c577854c-7306-4560-aff0-25486a619a04")
+		)
+		(instances
+			(project "cdf-alim-boost-24v-1"
+				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -16137,6 +16335,255 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 161.29 44.45 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "97420432-280b-42cb-bd69-07e8144d1162")
+		(property "Reference" "C34"
+			(at 158.242 43.18 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0n1"
+			(at 158.242 45.72 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 165.1 43.4848 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 161.29 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "Y"
+			(at 161.29 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C1546"
+			(at 161.29 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 161.29 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402CG101J500NT"
+			(at 161.29 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "df152d55-fcd4-4d08-ba7c-5fa3ac3eedaa")
+		)
+		(pin "1"
+			(uuid "e44fdca1-1146-4f2f-8c91-890193d44c83")
+		)
+		(instances
+			(project "cdf-alim-boost-24v-1"
+				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
+					(reference "C34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 166.37 36.83 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9c009ad6-77b0-40de-9e74-7f30b88aff58")
+		(property "Reference" "R25"
+			(at 167.894 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100"
+			(at 167.894 38.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 168.148 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 166.37 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 166.37 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "Y"
+			(at 166.37 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25076"
+			(at 166.37 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 166.37 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF1000TCE"
+			(at 166.37 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "67715aeb-bc97-4f95-859e-00a80772b9d8")
+		)
+		(pin "1"
+			(uuid "f3ab8702-c3fd-4aff-8948-5b0620651364")
+		)
+		(instances
+			(project "cdf-alim-boost-24v-1"
+				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
+					(reference "R25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 264.16 34.29 0)
 		(unit 1)
@@ -17464,7 +17911,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 218.1352 72.39 0)
 			(hide yes)
 			(show_name no)
