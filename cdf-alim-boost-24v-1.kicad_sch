@@ -4875,7 +4875,7 @@
 	)
 	(rectangle
 		(start 87.63 175.26)
-		(end 111.125 195.58)
+		(end 106.68 195.58)
 		(stroke
 			(width 0)
 			(type dash)
@@ -4923,7 +4923,7 @@
 	)
 	(text "Mounting"
 		(exclude_from_sim no)
-		(at 98.298 191.262 0)
+		(at 95.504 191.516 0)
 		(effects
 			(font
 				(size 1.905 1.905)
@@ -5004,12 +5004,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b36dae2-03e5-475c-885e-ffd6511d783e")
-	)
-	(junction
-		(at 106.68 186.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1c9152ae-256f-44cf-bcad-bf35f321edb7")
 	)
 	(junction
 		(at 48.26 104.14)
@@ -6313,16 +6307,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 185.42) (xy 106.68 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41570a1e-f193-4102-afbe-979697274c24")
-	)
-	(wire
-		(pts
 			(xy 213.36 29.21) (xy 218.44 29.21)
 		)
 		(stroke
@@ -7113,16 +7097,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 186.69) (xy 107.95 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80f54ae1-df21-429a-a6c5-7131fd692f53")
-	)
-	(wire
-		(pts
 			(xy 91.44 186.69) (xy 96.52 186.69)
 		)
 		(stroke
@@ -7393,7 +7367,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 186.69) (xy 107.95 187.96)
+			(xy 104.14 186.69) (xy 104.14 187.96)
 		)
 		(stroke
 			(width 0)
@@ -8433,7 +8407,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 186.69) (xy 106.68 186.69)
+			(xy 96.52 186.69) (xy 104.14 186.69)
 		)
 		(stroke
 			(width 0)
@@ -9937,7 +9911,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 107.95 187.96 0)
+		(at 104.14 187.96 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9947,7 +9921,7 @@
 		(dnp no)
 		(uuid "19f36c70-85cb-4168-aaeb-30ead2f60bb5")
 		(property "Reference" "#PWR051"
-			(at 107.95 194.31 0)
+			(at 104.14 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9958,7 +9932,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 107.696 192.532 0)
+			(at 103.886 192.532 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9969,7 +9943,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 107.95 187.96 0)
+			(at 104.14 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9980,7 +9954,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 187.96 0)
+			(at 104.14 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9991,7 +9965,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 107.95 187.96 0)
+			(at 104.14 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18791,106 +18765,6 @@
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
 					(reference "#PWR027")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 106.68 182.88 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b374bc06-25ce-40ca-9cbf-a651ff797672")
-		(property "Reference" "H7"
-			(at 105.41 178.054 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 110.49 181.61 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-			(at 106.68 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 106.68 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 106.68 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.1" ""
-			(at 106.68 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "458a2a37-d659-4246-ad1f-652bfbd7f3e9")
-		)
-		(instances
-			(project "cdf-alim-boost-24v-1"
-				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "H7")
 					(unit 1)
 				)
 			)
