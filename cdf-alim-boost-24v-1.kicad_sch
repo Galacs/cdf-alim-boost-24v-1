@@ -2249,7 +2249,7 @@
 		)
 		(uuid "3c797939-9470-4eae-bf65-6c4f1dcd0bf3")
 	)
-	(text "LM7480 +18V\ninput protection"
+	(text "LM7480 +18V\ninput protection\n(23V max)"
 		(exclude_from_sim no)
 		(at 106.172 56.134 0)
 		(effects
@@ -3231,7 +3231,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "2k"
 			(at 38.608 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4030,7 +4030,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "2k"
 			(at 50.038 58.674 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6651,7 +6651,7 @@
 				)
 			)
 		)
-		(property "Value" "22k5"
+		(property "Value" "33k"
 			(at 45.72 50.8 90)
 			(show_name no)
 			(do_not_autoplace no)
