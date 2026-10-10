@@ -2830,6 +2830,8 @@
 						)
 					)
 				)
+			)
+			(symbol "LM74800_1_0"
 				(pin no_connect line
 					(at -2.54 -11.43 90)
 					(length 2.54)
@@ -2841,7 +2843,7 @@
 							)
 						)
 					)
-					(number "RTN"
+					(number "13"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -14715,7 +14717,7 @@
 		(pin "3"
 			(uuid "c28f97aa-e15b-4eb3-a647-2f88200395b2")
 		)
-		(pin "RTN"
+		(pin "13"
 			(uuid "e69acc5f-850e-4a29-af6b-795417ba29b6")
 		)
 		(pin "6"
