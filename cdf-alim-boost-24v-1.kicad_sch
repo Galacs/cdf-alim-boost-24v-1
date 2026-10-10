@@ -15503,7 +15503,7 @@
 				)
 			)
 		)
-		(property "JLCPCB Part #" "C1538"
+		(property "JLCPCB Part #" "C1532"
 			(at 87.63 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -15525,7 +15525,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "0402B472K500NT"
+		(property "Manufacturer Part Number" "0402B223K500NT"
 			(at 87.63 104.14 0)
 			(hide yes)
 			(show_name no)
