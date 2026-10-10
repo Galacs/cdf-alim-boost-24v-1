@@ -11523,7 +11523,7 @@
 		(dnp no)
 		(uuid "488e5700-8097-4946-84ce-772e03fb1985")
 		(property "Reference" "TP12"
-			(at 166.116 25.908 0)
+			(at 169.164 23.876 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21694,7 +21694,7 @@
 		(dnp no)
 		(uuid "ed08dd5d-3f83-44a2-8e0d-4b385dd8e337")
 		(property "Reference" "TP13"
-			(at 185.166 25.908 0)
+			(at 188.468 23.622 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
