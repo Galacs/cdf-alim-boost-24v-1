@@ -1458,8 +1458,9 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Transistor_FET:IRF8721PBF-1"
+		(symbol "Transistor_FET:CSD18501Q5A"
 			(pin_names
+				(offset 0)
 				(hide yes)
 			)
 			(exclude_from_sim no)
@@ -1468,7 +1469,7 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "Q"
-				(at 5.08 2.54 0)
+				(at 5.08 1.905 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -1478,7 +1479,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "IRF8721PBF-1"
+			(property "Value" "CSD18501Q5A"
 				(at 5.08 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1489,7 +1490,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
 				(at 5.08 -1.905 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1502,7 +1503,7 @@
 					(justify left)
 				)
 			)
-			(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf8721pbf-1.pdf"
+			(property "Datasheet" "http://www.ti.com/lit/gpn/csd18501q5a"
 				(at 5.08 -3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1514,7 +1515,7 @@
 					(justify left)
 				)
 			)
-			(property "Description" "14A Id, 30V Vds, HEXFET N-Channel MOSFET, SO-8"
+			(property "Description" "100A Id, 40V Vds, NexFET N-Channel Power MOSFET, 3.2mOhm Ron, 42nC Qg(typ), SON8 5x6mm"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1525,7 +1526,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "HEXFET N-Channel MOSFET"
+			(property "ki_keywords" "NexFET Power MOSFET N-MOS"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1536,7 +1537,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*"
+			(property "ki_fp_filters" "TDSON*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1547,7 +1548,7 @@
 					)
 				)
 			)
-			(symbol "IRF8721PBF-1_0_1"
+			(symbol "CSD18501Q5A_0_1"
 				(polyline
 					(pts
 						(xy 0.254 1.905) (xy 0.254 -1.905)
@@ -1714,7 +1715,7 @@
 					)
 				)
 			)
-			(symbol "IRF8721PBF-1_1_1"
+			(symbol "CSD18501Q5A_1_1"
 				(pin passive line
 					(at 2.54 -5.08 90)
 					(length 2.54)
@@ -1773,7 +1774,7 @@
 				)
 				(pin input line
 					(at -5.08 0 0)
-					(length 2.54)
+					(length 5.08)
 					(name "G"
 						(effects
 							(font
@@ -1800,63 +1801,6 @@
 						)
 					)
 					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(hide yes)
-					(name "D"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(hide yes)
-					(name "D"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(hide yes)
-					(name "D"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3327,107 +3271,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_FET:IRF8721PBF-1")
-		(at 49.53 31.75 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "06d5ddec-1dbd-4162-97e6-650838e2de71")
-		(property "Reference" "Q1"
-			(at 48.768 22.86 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "IRF8736PbF"
-			(at 48.768 25.4 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 47.625 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf8721pbf-1.pdf"
-			(at 45.72 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" "14A Id, 30V Vds, HEXFET N-Channel MOSFET, SO-8"
-			(at 49.53 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "8"
-			(uuid "0e55d748-ce67-495d-bd2e-c0c5ecd0373a")
-		)
-		(pin "2"
-			(uuid "9529ba3d-463a-47a2-9ca7-2305feca44e9")
-		)
-		(pin "4"
-			(uuid "3476c58a-8edc-41d0-84f4-fc5914f0b268")
-		)
-		(pin "7"
-			(uuid "5aa075dd-fcf3-4d7b-b057-f88ae55d1b88")
-		)
-		(pin "1"
-			(uuid "d1859604-04d8-414b-be2b-710236935708")
-		)
-		(pin "5"
-			(uuid "b8d82c49-e134-4d7b-872b-0883ace9bf43")
-		)
-		(pin "3"
-			(uuid "bf772440-8b4d-4f4c-9949-75f03af63524")
-		)
-		(pin "6"
-			(uuid "8675045f-72dc-4edf-8fc2-a6eae7d5aaf9")
-		)
-		(instances
-			(project "cdf-alim-boost-24v-1"
-				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "Q1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 31.75 39.37 0)
 		(unit 1)
@@ -3705,106 +3548,6 @@
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
 					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_FET:IRF8721PBF-1")
-		(at 82.55 31.75 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "438b8077-813f-4aff-87d5-869938010035")
-		(property "Reference" "Q2"
-			(at 83.312 22.86 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "IRF8736PbF"
-			(at 83.312 25.4 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 84.455 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf8721pbf-1.pdf"
-			(at 86.36 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" "14A Id, 30V Vds, HEXFET N-Channel MOSFET, SO-8"
-			(at 82.55 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "8"
-			(uuid "42703772-820a-465c-81c8-1fce720022f5")
-		)
-		(pin "2"
-			(uuid "2de8b337-34a9-4b03-862f-02a1de2effd0")
-		)
-		(pin "4"
-			(uuid "13bc40bf-b5e5-4f6a-ad77-1e7a2c67a2b4")
-		)
-		(pin "7"
-			(uuid "ac558a2c-c780-4da3-86d0-7a6100814ddc")
-		)
-		(pin "1"
-			(uuid "06c43304-cf65-47c5-860f-a486d0519edc")
-		)
-		(pin "5"
-			(uuid "cdaf4f40-5b6a-471d-8281-007fc38c94c1")
-		)
-		(pin "3"
-			(uuid "019fc319-fc77-4689-ba33-7d1ee8154d4f")
-		)
-		(pin "6"
-			(uuid "43506777-4463-4ee7-bd86-38899f8d5db9")
-		)
-		(instances
-			(project "cdf-alim-boost-24v-1"
-				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -6020,6 +5763,97 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:CSD18501Q5A")
+		(at 82.55 31.75 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c626a09b-ebca-4827-bf50-7337f6458824")
+		(property "Reference" "Q3"
+			(at 83.82 22.86 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BSC019N04LS"
+			(at 83.82 25.4 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+			(at 84.455 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/csd18501q5a"
+			(at 86.36 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "100A Id, 40V Vds, NexFET N-Channel Power MOSFET, 3.2mOhm Ron, 42nC Qg(typ), SON8 5x6mm"
+			(at 82.55 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "797dd4c8-d72b-405f-ae50-61856a90e56a")
+		)
+		(pin "1"
+			(uuid "9c48fa0d-0ab0-4efb-afe8-9099e89d8175")
+		)
+		(pin "4"
+			(uuid "51e0fc54-4464-4a89-b5c2-7e4b7013078e")
+		)
+		(pin "3"
+			(uuid "a0abc1a0-2608-4b02-9497-401e910dc18c")
+		)
+		(pin "5"
+			(uuid "27f6c5df-f8a5-4723-b06d-5d2abd7fb7cc")
+		)
+		(instances
+			(project "cdf-alim-boost-24v-1"
+				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
+					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 91.44 36.83 0)
 		(unit 1)
@@ -6493,6 +6327,98 @@
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
 					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:CSD18501Q5A")
+		(at 49.53 31.75 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ed7ae822-6408-4cc9-8ae4-d34c3c7c49a4")
+		(property "Reference" "Q4"
+			(at 48.514 22.86 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BSC019N04LS"
+			(at 48.514 25.4 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+			(at 47.625 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/csd18501q5a"
+			(at 45.72 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "100A Id, 40V Vds, NexFET N-Channel Power MOSFET, 3.2mOhm Ron, 42nC Qg(typ), SON8 5x6mm"
+			(at 49.53 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "9dd46b80-5fcc-43bc-a621-dea93aca0bf6")
+		)
+		(pin "1"
+			(uuid "89a4e0fb-5ba8-4312-9f96-18aba529964f")
+		)
+		(pin "4"
+			(uuid "d813eb43-adfa-4547-9284-e5ef907450da")
+		)
+		(pin "3"
+			(uuid "c993a96d-ce08-439a-b4f5-c3a1aa37e2f9")
+		)
+		(pin "5"
+			(uuid "b07ed995-a2cf-4387-9af5-02cb49889d36")
+		)
+		(instances
+			(project "cdf-alim-boost-24v-1"
+				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
+					(reference "Q4")
 					(unit 1)
 				)
 			)
