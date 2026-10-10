@@ -7830,15 +7830,15 @@
 			(uuid "6396f3a9-c692-4598-988f-048d43a48a36")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT30PW-M_1x02_P2.50mm_Horizontal.step"
+		(model "/home/galacs/glcs-kicad-libraries/3dmodels/GLCS.3dshapes/Amass_XT30PW-M_pcb solder.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.6 4.1 2.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -12377,15 +12377,15 @@
 			(uuid "a116ef14-c52c-4c5b-9a28-aecac8af515e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT30PW-F_1x02_P2.50mm_Horizontal.step"
+		(model "/home/galacs/glcs-kicad-libraries/3dmodels/GLCS.3dshapes/XT30PW-F.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 2.5 5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
