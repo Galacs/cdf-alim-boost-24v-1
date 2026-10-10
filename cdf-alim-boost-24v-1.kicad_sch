@@ -5420,12 +5420,6 @@
 		(uuid "d30e8945-1d75-4882-926f-fc96998463ab")
 	)
 	(junction
-		(at 143.51 29.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d32f80a0-e064-4bb8-b4b0-5b68b5f6c8f9")
-	)
-	(junction
 		(at 95.25 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5606,16 +5600,6 @@
 			(type default)
 		)
 		(uuid "08e2eacc-b517-4924-9403-2c8ae19bf5a0")
-	)
-	(wire
-		(pts
-			(xy 123.19 29.21) (xy 143.51 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0933295c-3118-41f9-9660-346641f76e7e")
 	)
 	(wire
 		(pts
@@ -6659,7 +6643,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 29.21) (xy 156.21 29.21)
+			(xy 123.19 29.21) (xy 156.21 29.21)
 		)
 		(stroke
 			(width 0)
@@ -21931,85 +21915,6 @@
 			(project "cdf-alim-boost-24v-1"
 				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
 					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 143.51 29.21 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d2bba159-22aa-481c-842b-c3d4f811bc3d")
-		(property "Reference" "TP11"
-			(at 141.986 23.876 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 146.05 27.1779 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
-			(at 148.59 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 148.59 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 143.51 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4105aa90-112b-4527-bb5e-314da377de1f")
-		)
-		(instances
-			(project "cdf-alim-boost-24v-1"
-				(path "/c1d68e1e-31aa-4338-bfd5-3714fe43b2c6"
-					(reference "TP11")
 					(unit 1)
 				)
 			)
